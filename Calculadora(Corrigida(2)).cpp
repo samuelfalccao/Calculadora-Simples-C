@@ -34,7 +34,7 @@ int main(void) {
         		printf("\n\tO resultado da Divisao e: %0.2f", n1 / n2);
             	break;
         	default:
-            	printf("\n\tInforme uma opcao valida");
+            		printf("\n\tInforme uma opcao valida");
             	break;
         }
         
